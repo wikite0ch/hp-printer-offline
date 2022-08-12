@@ -2,7 +2,7 @@
 
 # hp printer offline
 
-[![hp printer offline](gett-detail.png)](https://github.com/pcs0lution/screen-recorder-for-pc)
+[![printer offline how to put online](gett-detail.png)](https://github.com/wikite0ch/hp-printer-offline)
 
 Restart your printer by turning it off, waiting 10 seconds, and disconnecting the power cord from your printer. Then, turn off your computer. Connect the printer power cord to the printer and turn the printer back on. Disconnect the power cord from your wireless router.
 
