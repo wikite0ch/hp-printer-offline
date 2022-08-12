@@ -1,4 +1,3 @@
-**[hp printer offline](https://github.com/pcs0lution/screen-recorder-for-pc/)**
 
 # hp printer offline
 
