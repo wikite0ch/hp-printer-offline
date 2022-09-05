@@ -1,7 +1,7 @@
 
 # hp printer offline
 
-[![printer offline how to put online](gett-detail.png)](https://computersolve.com/how-to-fix-an-offline-printer-hp/)
+[![printer offline how to put online](gett-detail.png)](https://icncomputer.com/how-to-fix-an-offline-printer-hp/)
 
 Restart your printer by turning it off, waiting 10 seconds, and disconnecting the power cord from your printer. Then, turn off your computer. Connect the printer power cord to the printer and turn the printer back on. Disconnect the power cord from your wireless router.
 
